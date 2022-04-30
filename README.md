@@ -3,7 +3,11 @@ Notes on AEM Sites - WKND Tutorial
 
 ## WKND Tutorial Overview ✅
 
-There are two main ways to start an AEM project: 1. AEM Project Archetype using a Maven template. This is recommended for sites that expect heavy customization. 2. AEM Site Template - aka - Quick Site Creation.
+There are two main ways to start an AEM project: 
+
+1. AEM Project Archetype using a Maven template. This is recommended for sites that expect heavy customization. 
+
+2. AEM Site Template - aka - Quick Site Creation.
 
 Finished site: https://wknd.site/us/en.html
 
@@ -13,7 +17,7 @@ Finished site: https://wknd.site/us/en.html
 
 Overview
 
-1 - Project Setup
+1 - Project Setup ✅
 
 2 - Component Basics
 
