@@ -19,7 +19,7 @@ Overview
 
 1 - Project Setup ✅
 
-2 - Component Basics
+2 - Component Basics - finished the component authoring video.
 
 3 - Pages and Templates
 
