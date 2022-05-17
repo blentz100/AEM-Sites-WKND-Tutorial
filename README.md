@@ -21,8 +21,8 @@ Overview
 
 1 - Project Setup ✅
 
-2 - Component Basics - finished the component authoring video.
-
+2 - Component Basics - up to the Sling Models video. 
+  
 3 - Pages and Templates
 
 4 - Client-Side Libraries
