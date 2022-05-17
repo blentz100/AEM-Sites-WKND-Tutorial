@@ -1,6 +1,8 @@
 # AEM-Sites-WKND-Tutorial
 Notes on AEM Sites - WKND Tutorial
 
+https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en
+
 ## WKND Tutorial Overview ✅
 
 There are two main ways to start an AEM project: 
