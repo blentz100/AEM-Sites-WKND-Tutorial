@@ -21,9 +21,13 @@ Overview
 
 1 - Project Setup ✅
 
-2 - Component Basics - up to the Sling Models video. 
+2 - Component Basics - ✅
+
+Went over HTL, Sling models and how to integrate client side libraries like Sass, Less and Typescript (using npm watch)
   
 3 - Pages and Templates
+
+Planning for most new sites starts with some mockups using a design tool like Adobe XD, which will be used in this example. Up to 2nd video.
 
 4 - Client-Side Libraries
 
