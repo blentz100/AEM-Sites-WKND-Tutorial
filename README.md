@@ -27,6 +27,8 @@ Went over HTL, Sling models and how to integrate client side libraries like Sass
   
 3 - Pages and Templates
 
+This section covers the differences between base page components and editable templates.
+
 Planning for most new sites starts with some mockups using a design tool like Adobe XD, which will be used in this example. 
 
 Experience Fragments are useful in that they allow you to combine multiple elements into a single reusable component like a header or footer
