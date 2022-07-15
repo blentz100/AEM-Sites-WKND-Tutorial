@@ -14,18 +14,18 @@ There are two main ways to start an AEM project:
 Finished site: https://wknd.site/us/en.html
 
 
-<details><summary><bold>Project Archetype</bold></summary>
+### Project Archetype
   
 
-Overview
+✅ Overview
 
-1 - Project Setup ✅
+✅ 1 - Project Setup 
 
-2 - Component Basics ✅
+✅ 2 - Component Basics 
 
 Went over HTL, Sling models and how to integrate client side libraries like Sass, Less and Typescript (using npm watch)
   
-3 - Pages and Templates ✅
+✅ 3 - Pages and Templates 
 
 This section covers the differences between base page components and editable templates.
 
@@ -37,7 +37,9 @@ Submitted two PRs on this section.
 
 Up to "Inspect another component within the WKND components"
 
-4 - Client-Side Libraries
+✅ 4 - Client-Side Libraries
+
+Client side libraries allow you to organize CSS and Javascript files needed for your AEM project.
 
 5 - Style System
 
@@ -45,16 +47,21 @@ Up to "Inspect another component within the WKND components"
 
 7 - Unit Testing
   
-</details>
 
-<details><summary><bold>Quick site creation</bold></summary>
+
+### Quick site creation
 
 Overview
+
 1 - Create a Site
+
 2 - Intro to authoring and publishing
+
 3 - UI planning with Adobe XD
+
 3 - Page Templates
+
 4 - Theming
   
-</details>
+
 
