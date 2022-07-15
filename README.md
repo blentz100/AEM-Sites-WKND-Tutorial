@@ -27,7 +27,13 @@ Went over HTL, Sling models and how to integrate client side libraries like Sass
   
 3 - Pages and Templates
 
-Planning for most new sites starts with some mockups using a design tool like Adobe XD, which will be used in this example. Up to 2nd video.
+Planning for most new sites starts with some mockups using a design tool like Adobe XD, which will be used in this example. 
+
+Experience Fragments are useful in that they allow you to combine multiple elements into a single reusable component like a header or footer
+
+Submitted two PRs on this section.
+
+Up to "Inspect another component within the WKND components"
 
 4 - Client-Side Libraries
 
