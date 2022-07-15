@@ -21,11 +21,11 @@ Overview
 
 1 - Project Setup ✅
 
-2 - Component Basics - ✅
+2 - Component Basics ✅
 
 Went over HTL, Sling models and how to integrate client side libraries like Sass, Less and Typescript (using npm watch)
   
-3 - Pages and Templates
+3 - Pages and Templates ✅
 
 This section covers the differences between base page components and editable templates.
 
