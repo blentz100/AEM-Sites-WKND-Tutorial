@@ -41,7 +41,7 @@ Up to "Inspect another component within the WKND components"
 
 Client side libraries allow you to organize CSS and Javascript files needed for your AEM project.
 
-5 - Style System
+✅ 5 - Style System
 
 6 - Custom Component
 
