@@ -43,7 +43,9 @@ Client side libraries allow you to organize CSS and Javascript files needed for 
 
 ✅ 5 - Style System
 
-6 - Custom Component
+✅ 6 - Custom Component 
+
+Create a custom component for author bylines with name, occupation and photo. 
 
 7 - Unit Testing
   
